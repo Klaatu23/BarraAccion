@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+    <item android:title="@string/add" android:id="@+id/addNote" android:icon="@android:drawable/ic_menu_add"
+          app:showAsAction="ifRoom"/>
+    <item android:title="@string/reset" android:id="@+id/addReset" android:icon="@android:drawable/ic_menu_revert"
+          app:showAsAction="ifRoom"/>
+    <item android:title="@string/about" android:id="@+id/about" android:icon="@android:drawable/ic_menu_info_details"
+          app:showAsAction="ifRoom"/>
+    <item android:title="@string/exit" android:id="@+id/exit"
+          android:icon="@android:drawable/ic_menu_close_clear_cancel" app:showAsAction="ifRoom"/>
+</menu>

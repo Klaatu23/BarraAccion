@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarraAccion</string>
+    <string name="reset">Reset</string>
+    <string name="about">Acerca de</string>
+    <string name="add">Agregar</string>
+    <string name="exit">Salir</string>
+</resources>
